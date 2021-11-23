@@ -5,3 +5,7 @@ Hi, I am Margit, a web development teacher at [Business College Helsinki](https:
 This repo contains mainly study materials for [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) students. 
 
 ![](https://komarev.com/ghpvc/?username=margittennosaar&color=orange)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margittennosaar&theme=swift)
+
