@@ -6,6 +6,5 @@ This repo contains mainly study materials for [Full-Stack Development Program](h
 
 ![](https://komarev.com/ghpvc/?username=margittennosaar&color=orange)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margittennosaar&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margittennosaar&theme=swift)]
 
