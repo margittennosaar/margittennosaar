@@ -10,8 +10,8 @@ This account contains mainly study materials for [Full-Stack Development Program
 Feel free to find me in other channels also: 
 🇪🇪 🇫🇮 🇬🇧
 
-- [LinkedIn]([https://en.bc.fi/](https://www.linkedin.com/in/margittennosaar/))
-- [Instagram]([https://en.bc.fi/](https://www.instagram.com/margittennosaar/))
+- [LinkedIn](https://www.linkedin.com/in/margittennosaar/)
+- [Instagram](https://www.instagram.com/margittennosaar/)
 - Discord: Margit#9819
 
 
