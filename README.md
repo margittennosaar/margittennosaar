@@ -2,7 +2,7 @@
 
 Hi, I am Margit, a web development teacher at [Business College Helsinki](https://en.bc.fi/). 
 
-> I make the world a better place, one student at a time.
+> One student at time, I make the world a better place.
 
 This account contains mainly study materials for [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) students.
 
