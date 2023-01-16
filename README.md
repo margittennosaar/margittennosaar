@@ -16,5 +16,3 @@ Feel free to find me in other channels also:
 
 
 ![](https://komarev.com/ghpvc/?username=margittennosaar&color=orange)
-
-![margittennosaar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margittennosaar&theme=swift&layout=compact). 
